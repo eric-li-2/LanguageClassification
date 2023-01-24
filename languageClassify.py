@@ -1,3 +1,4 @@
+# implementation of RNN following tutorial from https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html
 from __future__ import unicode_literals, print_function, division
 from io import open
 import glob
